@@ -1,0 +1,17 @@
+{
+  "HomePage": {
+    "title": "გამარჯობა სამყარო!",
+    "about": "გადადი ჩვენს შესახებ"
+  },
+  "AboutPage": {
+    "title": "ჩვენ შესახებ",
+    "description": "ეს არის ჩვენს შესახებ გვერდი"
+  },
+  "Sidebar": {
+    "transfer": "გადარიცხვა",
+    "transactions": "ტრანზაქციები",
+    "statistics": "სტატისტიკა",
+    "support": "მხარდაჭერა",
+    "kyc": "KYC Verification"
+  }
+}

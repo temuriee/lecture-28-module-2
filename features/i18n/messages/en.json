@@ -1,0 +1,17 @@
+{
+  "HomePage": {
+    "title": "Hello world!",
+    "about": "Go to the about page"
+  },
+  "AboutPage": {
+    "title": "About",
+    "description": "This is the about page"
+  },
+  "Sidebar": {
+    "transfer": "Transfer",
+    "transactions": "Transactions",
+    "statistics": "Statistics",
+    "support": "Support",
+    "kyc": "KYC Verification"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "HomePage": {
+    "title": "Привет мир!",
+    "about": "Перейти на страницу о нас"
+  },
+  "AboutPage": {
+    "title": "О нас",
+    "description": "Это страница о нас"
+  },
+  "Sidebar": {
+    "transfer": "Перевод",
+    "transactions": "Транзакции",
+    "statistics": "Статистика",
+    "support": "Поддержка",
+    "kyc": "Верификация KYC"
+  }
+}
